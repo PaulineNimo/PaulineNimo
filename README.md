@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaulineNimo
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Shiny
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning more about Tensorflow
+- 💞️ I’m looking to collaborate on anything data related
 - 📫 How to reach me paulinewndirangu@gmail.com
 
 <!---
